@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>1141130140387123293</ID>
+  <Details>- FN Player and GD Player 🙃</Details>
+  <State>My Local Time ⌚:</State>
+  <PartySize>0</PartySize>
+  <PartyMax>2</PartyMax>
+  <Timestamps>2</Timestamps>
+  <CustomTimestamp>2023-04-19T18:04:58</CustomTimestamp>
+  <LargeKey>https://i.ibb.co/5r30tsx/fdfdssfd.gif</LargeKey>
+  <LargeText />
+  <SmallKey>https://c.tenor.com/TgKK6YKNkm0AAAAi/verified-verificado.gif</SmallKey>
+  <SmallText>Verified</SmallText>
+  <Button1Text>My YouTube Channel</Button1Text>
+  <Button1URL>https://www.youtube.com/@mmvoidfn</Button1URL>
+  <Button2Text>My Discord Server</Button2Text>
+  <Button2URL>https://discord.gg/j4RMycubc</Button2URL>
+</Preset>
